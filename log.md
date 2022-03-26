@@ -7,24 +7,13 @@
 
 **Thoughts:** i feel so motivated and would love to see how i'll be after 100days
 
-**Link to work:** [Space Tourism](http://www.example.com)
+**Link to work:** [Space Tourism](https://github.com/nour-17/space-tourism-website)
 
-### Day 1: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: march 26, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: made some utility classes for the space site, learned about some css selectors (*-*) and (*:where(:not(:first-child)))
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: i saw how some libraries like tailwind uses utility classes and i think it will make a big differnce on how i'll write code in this project, and watched 2 videos from osama elzero's javascript oop playlist
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
