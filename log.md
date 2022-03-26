@@ -1,15 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: march 25, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: setup the space site repo and the challenge's, created the space travel site enviroment using CRA.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** i feel so motivated and would love to see how i'll be after 100days
 
-### Day 0: February 30, 2016 (Example 2)
+**Link to work:** [Space Tourism](http://www.example.com)
+
+### Day 1: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
