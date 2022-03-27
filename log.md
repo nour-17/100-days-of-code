@@ -17,3 +17,10 @@
 
 **Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
 
+### Day 2: march 27, 2022
+
+**Today's Progress**: worked on the main button element on the space tourism site and added an animaions on hover using ::after and read some of the cryptocurrency article (https://en.m.wikipedia.org/wiki/Cryptocurrency) and watched couble of videos on how to code an nft using smart contracts (https://www.youtube.com/watch?v=GAFh2Z5VtgM&ab_channel=KieCodes)
+
+**Thoughts**: today was a relativly easy day in terms of coding and learned some aspects of cryptography and it seems like a very exiting field
+
+**Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
