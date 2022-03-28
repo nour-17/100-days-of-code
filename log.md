@@ -24,3 +24,11 @@
 **Thoughts**: today was a relativly easy day in terms of coding and learned some aspects of cryptography and it seems like a very exiting field
 
 **Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
+
+### Day 3: march 28, 2022
+
+**Today's Progress**: finished th nav bar and did the tabs buttons and hover states
+
+**Thoughts**: i didn't get mush done today but im planning on finishing the first page tomorrow
+
+**Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
