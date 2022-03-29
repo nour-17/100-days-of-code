@@ -27,8 +27,15 @@
 
 ### Day 3: march 28, 2022
 
-**Today's Progress**: finished th nav bar and did the tabs buttons and hover states
+**Today's Progress**: finished the nav bar and did the tabs buttons and hover states
 
 **Thoughts**: i didn't get mush done today but im planning on finishing the first page tomorrow
 
+**Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
+
+### Day 4: march 29, 2022
+
+**Today's Progress**: finished the design system page and done some numbered and tabs indicators and their hover states  and will be working on the home page tomorrow
+
+**Thoughts**: this page got more time than i assumed but am happy to see it finished
 **Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
