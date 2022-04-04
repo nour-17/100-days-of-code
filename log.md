@@ -39,3 +39,17 @@
 
 **Thoughts**: this page got more time than i assumed but am happy to see it finished
 **Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
+
+### Day 5: april 1, 2022
+
+**Today's Progress**: watched half of lecture 0 of cs50 course and watched a react router tutorial
+
+**Thoughts**: cs50 seems much fun and im exited to the problem set 0
+**Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
+
+### Day 6: april 3, 2022
+
+**Today's Progress**: finished lecture 0 of cs50 and did the first scratch project which was fun and implemented react router in the space tourism site
+
+**Thoughts**: cs50 seems much fun and im exited to the problem set 0
+**Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
