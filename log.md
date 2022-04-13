@@ -51,5 +51,33 @@
 
 **Today's Progress**: finished lecture 0 of cs50 and did the first scratch project which was fun and implemented react router in the space tourism site
 
-**Thoughts**: cs50 seems much fun and im exited to the problem set 0
+**Thoughts**: cs50 is amazing and i love spending time watching it 
+**Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
+
+### Day 7: april 5, 2022
+
+**Today's Progress**: worked on the home page media quaries 
+
+**Thoughts**: implemnting the site in react has been alot of fun
+**Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
+
+### Day 8: april 6, 2022
+
+**Today's Progress**: finished the home page and started working on the nav
+
+**Thoughts**: im happy with how it turned up to be and have took a few different approached in the code and it worked great
+**Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
+
+### Day 9: april 11, 2022
+
+**Today's Progress**: finally finished working on the nav and added a (skip to content) link and watched  50mins of cs50x lecture 1
+
+**Thoughts**: so happy to see the nav finnaly working and responsive 
+**Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
+
+### Day 10: april 12, 2022
+
+**Today's Progress**: modified the nav btn to be an before and after elements instead of loading the two images each time and added the destination page and dealt with props and states to pull it off
+
+**Thoughts**: this project is making me think logically more and it is great
 **Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
