@@ -81,3 +81,24 @@
 
 **Thoughts**: this project is making me think logically more and it is great
 **Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
+
+### Day 11: april 12, 2022
+
+**Today's Progress**: made the destination background images and the content change dynamically through tabs 'did that using states' but i need to change some png pathes and that will take some time since i used a lot ot paths throught the css and the app
+
+**Thoughts**: i like working on this page it have more components compared to home so it will be fun to style
+**Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
+
+### Day 12: april 17, 2022
+
+**Today's Progress**: finished  lecture 1 of cs50x and watched  some oop javascript tutorials and completed the mobile design for the destination page
+
+**Thoughts**: the mobile design went great and tommorow will probably finish the whole page tomorrow
+**Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
+
+### Day 13: april 18, 2022
+
+**Today's Progress**: finished  lecture pset 1 of cs50x (the mario challenge was fun and the cashier one took me so long to finially figure out that im looping over the cents ) and finished the tablet design for the space tourism site
+
+**Thoughts**: i want to finish the app on friday so i need to spend more time on it
+**Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
