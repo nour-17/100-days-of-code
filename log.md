@@ -102,3 +102,34 @@
 
 **Thoughts**: i want to finish the app on friday so i need to spend more time on it
 **Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
+
+### Day 14: april 19, 2022
+
+**Today's Progress**: finished the crew page 
+
+**Thoughts**: the hardest page to style yet
+**Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
+
+### Day 15: april 20, 2022
+
+**Today's Progress**: finished styling the technology page 
+
+**Thoughts**: it was easy
+adding the functionality since it was similar to the previous page tomorrow will refactor some code and hopefully host it
+**Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
+
+### Day 15: april 21, 2022
+
+**Today's Progress**: finished finished styling the technology page
+
+**Thoughts**: it will take me some time to figure out how to change the background according to the screen width 
+**Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
+
+### Day 16: april 22, 2022
+
+**Today's Progress**: i maneged to check the window inner width to determine the proper background and fixed the nav tabs and used local storage for that
+
+**Thoughts**: iam so happy that i was able to finish this project in react it sure made me understand it better and probably will take some time off as also my finals are soon
+check out the hosted site on netfly
+
+**Link(s) to work**: [space tourism](https://explore-space-now.netlify.app/)
