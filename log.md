@@ -118,18 +118,27 @@
 adding the functionality since it was similar to the previous page tomorrow will refactor some code and hopefully host it
 **Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
 
-### Day 15: april 21, 2022
+### Day 16: april 21, 2022
 
 **Today's Progress**: finished finished styling the technology page
 
 **Thoughts**: it will take me some time to figure out how to change the background according to the screen width 
 **Link(s) to work**: [space tourism](https://github.com/nour-17/space-tourism-website)
 
-### Day 16: april 22, 2022
+### Day 17: april 22, 2022
 
 **Today's Progress**: i maneged to check the window inner width to determine the proper background and fixed the nav tabs and used local storage for that
 
 **Thoughts**: iam so happy that i was able to finish this project in react it sure made me understand it better and probably will take some time off as also my finals are soon
+check out the hosted site on netfly
+
+**Link(s) to work**: [space tourism](https://explore-space-now.netlify.app/)
+
+### Day 18: may 21, 2022
+
+**Today's Progress**: changed the quizzical app layout and made it mobile friendly and published it
+
+**Thoughts**: it feels so good to be coding again after a month and im definitely so exited to see what i will build next 
 check out the hosted site on netfly
 
 **Link(s) to work**: [space tourism](https://explore-space-now.netlify.app/)
